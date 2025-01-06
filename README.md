@@ -1,7 +1,7 @@
-<div>
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=srsaurav0.srsaurav0" />
-<img align="right" src="https://komarev.com/ghpvc/?username=srsaurav0&label=Profile%20views&color=0e75b6&style=flat" alt="srsaurav0" />
-</div>
+<!-- <div> -->
+<!-- <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=srsaurav0.srsaurav0" /> -->
+<!-- <img align="right" src="https://komarev.com/ghpvc/?username=srsaurav0&label=Profile%20views&color=0e75b6&style=flat" alt="srsaurav0" /> -->
+<!-- </div> -->
 
 # Hi there, I'm Saurav 👋
 
