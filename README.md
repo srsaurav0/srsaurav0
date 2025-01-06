@@ -47,3 +47,12 @@ Here are some of my notable projects:
   - [LinkedIn](https://www.linkedin.com/in/saurav-roy-57b453200)
 
 Thanks for visiting my profile! Have a great day! 😊
+
+<hr/>
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/siddiqua14/siddiqua14/output/github-contribution-grid-snake-dark.svg"/>  
+</div>
+<hr/>
+
