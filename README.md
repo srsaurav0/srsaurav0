@@ -45,5 +45,6 @@ Here are some of my notable projects:
 - 📫 How to reach me:
   - [Mail](mailto:srsaurav0@gmail.com)
   - ![LinkedIn](https://www.linkedin.com/in/saurav-roy-57b453200)
+  - [![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/saurav-roy-57b453200)
 
 Thanks for visiting my profile! Have a great day! 😊
