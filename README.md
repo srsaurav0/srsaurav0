@@ -10,6 +10,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to create and
 ## About Me
 
 - 🌱 I’m currently working as Software Engineer Intern at W3 Engineers Limited.
+- <a href="https://emoji.gg/emoji/3058-golang"><img src="https://cdn3.emoji.gg/emojis/3058-golang.png" width="23px" height="23px" alt="Golang"></a> My work involves API and Backend development in Go and Beego.
 - 💼 I’m looking to collaborate on exciting projects related to web development, data science, and more.
 - 🎓 I have a background in Computer Science and Engineering.
 
