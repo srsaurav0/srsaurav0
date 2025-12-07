@@ -5,11 +5,11 @@
 
 # Hi there, I'm Saurav 👋
 
-Welcome to my GitHub profile! I'm a passionate developer who loves to create and contribute to open-source projects. Here's a bit more about me:
+Welcome to my GitHub profile! I'm a passionate developer working as a full-stack developer at IFIC Bank PLC. Here's a bit more about me:
 
 ## About Me
 
-- 🌱 I’m currently working as Software Engineer Intern at W3 Engineers Limited.
+- 🌱 I’m currently working as a Full-Stack Software Developer at IFIC Bank PLC.
 - <a href="https://emoji.gg/emoji/3058-golang"><img src="https://cdn3.emoji.gg/emojis/3058-golang.png" width="23px" height="23px" alt="Golang"></a> My work involves API and Backend development in Go and Beego.
 - 💼 I’m looking to collaborate on exciting projects related to web development, data science, and more.
 - 🎓 I have a background in Computer Science and Engineering.
