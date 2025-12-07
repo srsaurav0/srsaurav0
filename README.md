@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a passionate developer working as a full-stack
 ## About Me
 
 - 🌱 I’m currently working as a Full-Stack Software Developer at IFIC Bank PLC.
-- <a href="https://emoji.gg/emoji/3058-golang"><img src="https://cdn3.emoji.gg/emojis/3058-golang.png" width="23px" height="23px" alt="Golang"></a> My work involves API and Backend development in Go and Beego.
+- <a href="https://emoji.gg/emoji/3058-golang"><img src="https://cdn3.emoji.gg/emojis/3058-golang.png" width="23px" height="23px" alt="Golang"></a> My work involves Front-end, API and Backend development in Laravel(PHP), ReactJS, and Beego(Go).
 - 💼 I’m looking to collaborate on exciting projects related to web development, data science, and more.
 - 🎓 I have a background in Computer Science and Engineering.
 
