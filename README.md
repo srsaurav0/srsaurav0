@@ -9,14 +9,14 @@ Welcome to my GitHub profile! I'm a passionate developer working as a full-stack
 
 ## About Me
 
-- 🌱 I’m currently working as a Full-Stack Software Developer at IFIC Bank PLC.
-- <a href="https://emoji.gg/emoji/3058-golang"><img src="https://cdn3.emoji.gg/emojis/3058-golang.png" width="23px" height="23px" alt="Golang"></a> My work involves Front-end, API and Backend development in Laravel(PHP), ReactJS, and Beego(Go).
+- 🌱 I’m currently working as a Software Architect and Developer at IFIC Bank PLC.
+- <a href="https://emoji.gg/emoji/3058-golang"><img src="https://cdn3.emoji.gg/emojis/3058-golang.png" width="23px" height="23px" alt="Golang"></a> My work involves API and Backend development in Laravel(PHP), .NET, and Beego(Go).
 - 💼 I’m looking to collaborate on exciting projects related to web development, data science, and more.
 - 🎓 I have a background in Computer Science and Engineering.
 
 ## My Skills
 
-- **Languages:** Python, C++, JavaScript, Java, Typescript
+- **Languages:** Python, C++, C#, JavaScript, Java, Typescript
 - **Web Development:** HTML, CSS, React, Node.js
 - **Data Science:** Pandas, NumPy, Scikit-Learn, TensorFlow
 - **Databases:** MySQL, PostgreSQL
@@ -26,9 +26,9 @@ Welcome to my GitHub profile! I'm a passionate developer working as a full-stack
 
 Here are some of my notable projects:
 
-### [Cat Voting API Project](https://github.com/srsaurav0/GoLang-Cat-API)
+### [e-Tender Application](https://etender.ificbankbd.com/))
 - Description: The Cat Voting API is a Go-based application built using the Beego framework. It provides functionalities to fetch cat images, search cat details and images by breeds, manage favorites, and perform voting actions for cat images using The Cat API.
-- Technologies used: Go, Beego.
+- Technologies used: Laravel, PHP, Next.js.
 
 ### [Property Management System - Django](https://github.com/srsaurav0/Inventory-Management-Django)
 - Description: This Django-based Property Management System (PMS) allows users to manage accommodations and locations while providing a custom admin interface. It includes features such as CSV import, geospatial data handling with Leaflet, and advanced user-specific permissions.
