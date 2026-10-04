@@ -42,10 +42,6 @@ Here are some of my notable projects:
 - Description: This project is a Property Management System designed to manage hotels, their summaries, ratings, and reviews. The project integrates Django for backend management and uses the Gemini API from Google AI Studio for generating hotel descriptions, summaries, and reviews. It also uses another repository to scrape data from the Trip.com website.
 - Technologies used: Python, Scrapy, Docker, Gemini API.
 
-## GitHub Stats
-
-![Saurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=srsaurav0&show_icons=true&theme=radical)
-
 ## Get in Touch
 
 - 📫 How to reach me:
