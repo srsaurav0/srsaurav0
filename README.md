@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I'm a passionate developer working as a full-stack
 
 Here are some of my notable projects:
 
-### [e-Tender Application](https://etender.ificbankbd.com/))
+### [e-Tender Application](https://etender.ificbankbd.com/)
 - Description: The Cat Voting API is a Go-based application built using the Beego framework. It provides functionalities to fetch cat images, search cat details and images by breeds, manage favorites, and perform voting actions for cat images using The Cat API.
 - Technologies used: Laravel, PHP, Next.js.
 
